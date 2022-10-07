@@ -1,6 +1,6 @@
-# Scrimba - React Site Solution
+# Scrimba - Meme Generator Solution
 
-This is a solution to the [React Site project on Scrimba](https://scrimba.com/learn/learnreact). Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the [Meme Generator project on Scrimba](https://scrimba.com/learn/learnreact). Scrimba helps you improve your coding skills by building realistic projects.
 
 ## Table of Contents
 
